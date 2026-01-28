@@ -40,6 +40,6 @@
 
 <div align="center">
 
-![Snake animation](https://github.com/bernardogomes25/bernardogomes25/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/bernardogomes25)
 
 </div>

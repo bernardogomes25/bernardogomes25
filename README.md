@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Bernardo Gomes
 
-🎯 Administrador e Programador de Pesquisas de Opinião  
+🎯 Administrador e Programador de Pesquisas de Mercado
 🚀 Sempre aprendendo, construindo e evoluindo  
 
 ---

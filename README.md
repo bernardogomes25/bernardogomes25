@@ -16,6 +16,8 @@
   />
 </div>
 
+---
+
 <div>
   
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />   
@@ -27,7 +29,7 @@
         
 </div>
 
----
+###
  
 <div> 
   <a href="https://www.instagram.com/__bernardogomes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

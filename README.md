@@ -6,11 +6,14 @@
 ---
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bernardogomes25&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardogomes25&layout=compact&theme=tokyonight&hide_border=true)
-
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=bernardogomes25&show_icons=true&theme=tokyonight&border_color=2f80ed"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardogomes25&layout=compact&theme=tokyonight&border_color=2f80ed"
+  />
 </div>
 
 <div>
@@ -31,4 +34,12 @@
   <a href = "mailto:be.gpereira25@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bernardogomespereira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
+</div>
+
+---
+
+<div align="center">
+
+![Snake animation](https://github.com/bernardogomes25/bernardogomes25/blob/output/github-contribution-grid-snake.svg)
+
 </div>

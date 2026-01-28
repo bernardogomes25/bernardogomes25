@@ -2,11 +2,8 @@
 
 🎯 Administrador e Programador de Pesquisas de Opinião  
 🚀 Sempre aprendendo, construindo e evoluindo  
-📍 Brasil
 
 ---
-
-## 📊 GitHub Stats
 
 <div align="center">
 
@@ -16,10 +13,8 @@
 
 </div>
 
----
-
-## 🛠️ Tecnologias & Ferramentas
-
+<div align="center">
+  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -29,9 +24,19 @@
 ![Qualtrics](https://img.shields.io/badge/Qualtrics-00B4A0?style=for-the-badge)
 ![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge)
 
+</div>
+
 ---
 
-## 🌐 Onde me encontrar
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardogomespereira/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bernardogomes25)
+
+</div>
+
+<div align="center">
+
+![Snake animation](https://github.com/bernardogomes25/bernardogomes25/blob/output/github-contribution-grid-snake.svg)
+
+</div>

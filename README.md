@@ -24,7 +24,7 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://portfolio-bernardo-gomes.vercel.app/"><img src="https://img.icons8.com/?size=100&id=J3nZHWgT1e7m&format=png&color=000000" width="50px" height="50px"/></a>
+<td><a href="https://portfolio-bernardo-gomes.vercel.app/"><img src="https://img.icons8.com/?size=100&id=naDnVpQ3BNkR&format=png&color=000000" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://github.com/bernardogomes25" target="_blank"><img src="https://img.icons8.com/?size=100&id=62856&format=png&color=000000" width="50px" height="50px"/></a>
 </td>
@@ -47,8 +47,7 @@
 
 <div align="center">
 
-### 💻 Tecnologias mais utilizadas:
-###
+<h2><font color="#6EA2F9">🛠️ Toolbox</font></h2>
 
 <div style="display: inline_block">
 

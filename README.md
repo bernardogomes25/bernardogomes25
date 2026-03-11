@@ -47,7 +47,8 @@
 
 <div align="center">
 
-<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/skills.svg?raw=true"/>&nbsp;<b>Tecnologias mais utilizadas:</b>
+### 💻 Tecnologias mais utilizadas:
+###
 
 <div style="display: inline_block">
 
@@ -61,6 +62,8 @@
 <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 
 
 <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+
+<img width="50px" height="50px" src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" />
 
 <img width="50px" height="50px" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" />
 

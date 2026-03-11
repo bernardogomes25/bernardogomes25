@@ -44,3 +44,7 @@
 ![Snake animation](https://github.com/bernardogomes25/bernardogomes25/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>

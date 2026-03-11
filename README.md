@@ -1,6 +1,5 @@
-
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=6EA2F9&center=true&width=610&lines=Administrador+e+Programador+de+Pesquisas+de+Mercado" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4982&pause=1000&color=6EA2F9&center=true&width=350&lines=Programmer+%26+Project+Manager" alt="Typing SVG" /></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -47,7 +46,7 @@
 
 <div align="center">
 
-<h2><font color="#6EA2F9">🛠️ Toolbox</font></h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4982&pause=1000&color=6EA2F9&center=true&width=200&lines=%F0%9F%92%BB+Tech+Stack" alt="Typing SVG" /></a>
 
 <div style="display: inline_block">
 

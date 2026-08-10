@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4982&pause=1000&color=6EA2F9&center=true&width=350&lines=Programmer+%26+Project+Manager" alt="Typing SVG" /></a>
+  <h1 align="center">Co-Founder at Nilo | Website Development & Digital Marketing</h1>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -44,11 +44,9 @@
 
 -----
 
+<h2 align="center">Tech Stack</h2>
+
 <div align="center">
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4982&pause=1000&color=6EA2F9&center=true&width=200&lines=Tech+Stack" alt="Typing SVG" /></a>
-
-<div style="display: inline_block">
 
 
 <img width="50px" height="50px" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" />
@@ -58,6 +56,8 @@
 <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> 
 
 <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 
+
+<img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> 
 
 <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 
@@ -72,6 +72,10 @@
 <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 
 <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+
+<img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
+
+<img width="50px" height="50px" src="https://cdn.simpleicons.org/vercel/white" />
 
 </div>
 
